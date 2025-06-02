@@ -17,7 +17,7 @@
   </a>
   <a>
     <a href="https://www.codechef.com/users/anubhavpandey1" target="blank">
-      <img align="center" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" alt="AnubhavPandey" height="50" width="50" />
+      <img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="AnubhavPandey" height="50" width="50" />
   </a>
 
 # 💻 Tech Stack:
