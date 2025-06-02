@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="400" width="600" alt="animated hello">
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ShreyashSri&label=Visitors&color=0e75b6&style=flat-square" alt="shreyashsri" /> 
+</p>
+
 # 💫 About Me:
 🌱 I’m currently learning **Web development**<br>👨‍💻 All of my projects are available at http://localhost:3000/<br><br>📫 How to reach me anubhavpandey1505@gmail.com<br><br>⚡ Fun fact The first computer virus was called "Creeper", and it didn’t damage anything — it just displayed the message: "I’m the creeper, catch me if you can!" It was created in the 1970s as an experiment on ARPANET — the early version of the internet! 😄<br>
 
