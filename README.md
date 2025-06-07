@@ -1,19 +1,11 @@
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="400" width="600" alt="animated hello">
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# 💫 About Me:
-🌱 I’m currently learning **Web development**<br>👨‍💻 All of my projects are available at http://localhost:3000/<br><br>📫 How to reach me anubhavpandey1505@gmail.com<br><br>⚡ Fun fact The first computer virus was called "Creeper", and it didn’t damage anything — it just displayed the message: "I’m the creeper, catch me if you can!" It was created in the 1970s as an experiment on ARPANET — the early version of the internet! 😄<br>
+👨‍💻 All of my projects are available at http://localhost:3000/<br><br>📫 How to reach me anubhavpandey1505@gmail.com<br><br>⚡ Fun fact The first computer virus was called "Creeper", and it didn’t damage anything — it just displayed the message: "I’m the creeper, catch me if you can!" It was created in the 1970s as an experiment on ARPANET — the early version of the internet! 😄<br>
 
 
 ## 🌐 Socials:
   </a>
   <a href="https://www.linkedin.com/in/anubhav-pandey-125b6b330/" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="AnubhavPandey" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/exp_1505/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="AnubhavPandey" height="50" width="50" />
   </a>
   <a>
     <a href="https://www.codechef.com/users/anubhavpandey1" target="blank">
