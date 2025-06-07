@@ -1,5 +1,5 @@
 <h1 align="center">Anubhv Pandey</h1>
-<p>Learning Web Development 🧑🏻‍💻</p>
+<p>🧑🏻‍💻 Learning Web Development</p>
 🧑🏻‍💻 All of my projects are available at http://localhost:3000/<br><br>📫 How to reach me anubhavpandey1505@gmail.com<br><br>⚡ Fun fact The first computer virus was called "Creeper", and it didn’t damage anything — it just displayed the message: "I’m the creeper, catch me if you can!" It was created in the 1970s as an experiment on ARPANET — the early version of the internet! 😄<br>
 
 
