@@ -28,6 +28,8 @@ LeetCode 1699 · CodeChef 1624 · Codeforces 1307 (Pupil) · 500+ problems solve
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exp1505&show_icons=true&locale=en" alt="exp1505" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exp1505" alt="exp1505" /></p>
 
+[![An image of @exp1505's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/exp1505)](https://holopin.io/@exp1505)
+
 ### 📫 Connect
 
 <p align="left">
